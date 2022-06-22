@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+body {
+  
+  height: 100vh;
+  width: 100vw;
+  overlay: hidden;
+}
+
+#main {
+  width: 100%;
+  min-height: 100%;
+  overlay: sroll;
+}
