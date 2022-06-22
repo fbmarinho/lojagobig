@@ -55,7 +55,8 @@ body {
 }
 
 #main {
+  border: 0px solid #000;
   width: 100%;
   min-height: 100%;
-  overlay: sroll;
+  overlay: scroll;
 }
